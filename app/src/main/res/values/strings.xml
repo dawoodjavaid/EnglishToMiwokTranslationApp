@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">MiwokApp</string>
+
+    <string name="One">One</string>
+    <string name="Two">Two</string>
+    <string name="Three">Three</string>
+    <string name="Four">Four</string>
+    <string name="Five">Five</string>
+    <string name="Six">Six</string>
+    <string name="Seven">Seven</string>
+    <string name="Eight">Eight</string>
+    <string name="Nine">Nine</string>
+    <string name="Ten">Ten</string>
+
+    <string name="Lutti">Lutti</string>
+    <string name="Otiko">Otiko</string>
+    <string name="Tolookosu">Tolookosu</string>
+    <string name="Oyyisa">Oyyisa</string>
+    <string name="Massokka">Massokka</string>
+    <string name="Temmokka">Temmokka</string>
+    <string name="Kenekuka">Kenekuka</string>
+    <string name="Kawinta">Kawinta</string>
+    <string name="Woe">Woe</string>
+    <string name="Naaacha">Naaacha</string>
+
+    <string name="Father">Father</string>
+    <string name="Apa">Apa</string>
+    <string name="Mother">Mother</string>
+    <string name="Ata">Ata</string>
+    <string name="Son">Son</string>
+    <string name="Angsi">Angsi</string>
+    <string name="Daughter">Daughter</string>
+    <string name="Tune">Tune</string>
+    <string name="Older_Brother">Older Brother</string>
+    <string name="Taachi">Taachi</string>
+    <string name="Younger_Brother">Younger Brother</string>
+    <string name="Chalitti">Chalitti</string>
+    <string name="Older_Sister">Older Sister</string>
+    <string name="Tete">Tete</string>
+    <string name="Younger_Sister">Younger Sister</string>
+    <string name="Kolliti">Kolliti</string>
+    <string name="Grand_Mother">Grand Mother</string>
+    <string name="Ama">Ama</string>
+    <string name="Grand_Ftaher">Grand Father</string>
+    <string name="Paapa">Paapa</string>
+
+
+    <string name="Red">Red</string>
+    <string name="Wetetti">Wetetti</string>
+    <string name="Green">Green</string>
+    <string name="Chokokki">Chokokki</string>
+    <string name="Brown">Brown</string>
+    <string name="Takaakki">Takaakki</string>
+    <string name="Gray">Gray</string>
+    <string name="Topappi">Topappi</string>
+    <string name="Black">Black</string>
+    <string name="Kululli">Kululli</string>
+    <string name="White">White</string>
+    <string name="Kelelli">Kelelli</string>
+    <string name="Dusty_Yellow">Dusty Yellow</string>
+    <string name="Topiisa">Topiisa</string>
+    <string name="Mustard_Yellow">Mustard Yellow</string>
+    <string name="Chiwita">Chiwita</string>
+
+
+    <string name="Where">Where are you going?</string>
+    <string name="Where1">Minto wuksus?</string>
+    <string name="What">What is your name</string>
+    <string name="What1">Tinna ayaasena</string>
+    <string name="My">My name is..</string>
+    <string name="My1">Ayaaset...</string>
+    <string name="How">How are you Feeling?</string>
+    <string name="How1">Michaksas</string>
+    <string name="I">I am feeling good.</string>
+    <string name="I1">Kuchi achit.</string>
+    <string name="Are">Are you Comming?</string>
+    <string name="Are1">Aanasaa</string>
+    <string name="Im">I am coming.</string>
+    <string name="Im1">Aanam</string>
+    <string name="Yes">Yes i am coming.</string>
+    <string name="Yes1">Haaaanam</string>
+    <string name="Lets">Lets go.</string>
+    <string name="Lets1">Yoowuits</string>
+    <string name="Come">Come here</string>
+    <string name="Come1">Anninem</string>
+
+</resources>

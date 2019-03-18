@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/linearLayout_Box"
+    android:layout_margin="2dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#FF5722"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_weight="20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/MiwokWord_Tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Lutti"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:textColor="#eee"
+            />
+
+        <TextView
+            android:id="@+id/EnglishWord_Tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/One"
+            android:textStyle="bold"
+            android:textSize="14sp"
+            android:textColor="#eee"
+            />
+
+    </LinearLayout>
+
+    <Button
+        android:background="@android:drawable/ic_media_play"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:layout_width="20dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        />
+
+</LinearLayout>
